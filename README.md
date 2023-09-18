@@ -5,9 +5,10 @@ Este repositorio contiene proyectos personales y retos con la finalidad de mostr
 El repositorio se divide de la siguiente forma:
 
 - Carpeta de Retos: Programas escuetos con retos
+- Carpeta de Aplicaciones: Aplicaciones funcionales que voy desarrollando. Pueden ser inspirados en algún reto o inventados por mi.
 
 
 # Datos autor
 Fecha creación repositorio: Mayo 2023
-Última actualización: 15/05/2023
+Última actualización: 18/09/2023
 Autor: David Rendo Casado
