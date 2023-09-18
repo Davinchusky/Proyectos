@@ -1,0 +1,85 @@
+{
+    "Atributos": {
+        "Fuerza": {
+            "Descripcion" : "",
+            "Competencia": [""]
+        },
+        "Destreza": {
+
+        },
+        "Constitucion": {
+
+        },
+        "Inteligencia": {
+
+        },
+        "Sabiduría": {
+
+        },
+        "Carisma": {
+
+        }
+    },
+    "Habilidades": {
+        "Atletismo": {
+            "Descripcion": "",
+            "Atributo": "Fuerza"
+        }
+    },
+    "Razas": {
+        "Elfo": {
+            "Descripcion": "",
+            "Altura": "1'80 m",
+            "Peso": "70 kg",
+            "Edad": "750 anos",
+            "Velocidad": "30 pies",
+            "Caracteristicas": {
+                "Vision Nocturna": "",
+                "Atributos": "Destreza +2"
+            },
+            "Subrazas": {
+
+            },
+            "Conjuros": [],
+            "Nombres": []
+        },
+        "Enano": {
+            "Descripcion": "",
+            "Altura": "1'50 m",
+            "Peso": "50 kg",
+            "Edad": "200 anos",
+            "Velocidad": "25 pies",
+            "Caracteristicas": {
+                "Vision Nocturna": "",
+                "Atributos": "Constitucion +2"
+            },
+            "Subrazas": {
+
+            },
+            "Conjuros": [],
+            "Nombres": []
+        }
+    },
+    "Clases": {
+        "Arquero": {
+            "Descripcion": "",
+            "Dado de Golpe": 8,
+            "Tiradas de salvacion": [],
+            "Equipo": [],
+            "Competencias": {
+
+            },
+            "Habilidades": {
+
+            }
+        }
+    },
+    "Conjuros": {
+        "Trucos" : {
+            
+        },
+        "Hechizos": {
+
+        }
+    }
+}
